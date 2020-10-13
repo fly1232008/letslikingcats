@@ -1,0 +1,20 @@
+ext {
+
+    vKotlin = '1.4.10'
+
+    // holy grails
+    vRxJava = '2.2.10'
+    vRxJavaAndroid = '2.1.1'
+
+    //presentation layer
+    vDagger = '2.29.1'
+    vMoxy = '2.2.0'
+    vRecyclerView = '1.1.0'
+    vDelegateAdapters = '3.00'
+    vMaterial = '1.2.1'
+
+    //data layer
+    vRoom = '2.2.5'
+    vRetrofit = '2.9.0'
+    vGlide = '4.11.0'
+}
